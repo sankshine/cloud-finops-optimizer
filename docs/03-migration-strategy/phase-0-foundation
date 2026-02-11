@@ -1,7 +1,4 @@
-## Project Timeline
-
-<!-- EMPTY LINE HERE -->
-```mermaid
+<div class="mermaid">
 gantt
     title Phase 0: Foundation Setup
     dateFormat  YYYY-MM-DD
@@ -19,3 +16,4 @@ gantt
     Inventory Collection Scripts :c1, 2023-01-10, 20d
     Cost Analysis Framework   :c2, after c1, 20d
     Migration Assessment Tools :c3, 2023-01-20, 25d
+</div>
