@@ -3,19 +3,16 @@
 gantt
     title Phase 0: Foundation Setup
     dateFormat YYYY-MM-DD
-    
     section Governance & Planning
-    Stakeholder Alignment           :a1, 2026-02-15, 30d
-    FinOps Framework Design         :a2, after a1, 20d
-    Cost Baseline Establishment     :a3, after a1, 30d
-    
+    Stakeholder Alignment :a1, 2026-02-15, 30d
+    FinOps Framework Design :a2, after a1, 20d
+    Cost Baseline Establishment :a3, after a1, 30d
     section Platform Setup
-    GCP Project Structure           :b1, 2026-03-01, 15d
-    IAM & Security Policies         :b2, after b1, 20d
-    Terraform Modules               :b3, after b1, 30d
-    
+    GCP Project Structure :b1, 2026-03-01, 15d
+    IAM & Security Policies :b2, after b1, 20d
+    Terraform Modules :b3, after b1, 30d
     section Discovery Tools
-    Inventory Collection Scripts    :c1, 2026-02-20, 20d
-    Cost Analysis Framework         :c2, after c1, 20d
-    Migration Assessment Tools      :c3, 2026-03-05, 25d
+    Inventory Collection Scripts :c1, 2026-02-20, 20d
+    Cost Analysis Framework :c2, after c1, 20d
+    Migration Assessment Tools :c3, 2026-03-05, 25d
 ```
