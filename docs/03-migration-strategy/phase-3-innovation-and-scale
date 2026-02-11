@@ -1,0 +1,21 @@
+gantt
+    title Phase 3: Innovation & Scale
+    dateFormat  YYYY-MM-DD
+    
+    section iot_sensor_data
+    Streaming Architecture   :j1, 2023-07-01, 25d
+    Pub/Sub Integration      :j2, after j1, 20d
+    Real-time Analytics      :j3, after j2, 25d
+    Anomaly Detection       :j4, after j3, 20d
+    
+    section ML & AI Enablement
+    Feature Store Setup      :k1, 2023-08-01, 30d
+    Customer Churn Model     :k2, after k1, 40d
+    Network Anomaly Detection :k3, after k2, 30d
+    Business User Training   :k4, after k3, 20d
+    
+    section Self-Service Platform
+    Data Catalog Population  :l1, 2023-09-01, 25d
+    Looker Studio Deployment :l2, after l1, 30d
+    API Gateway Development  :l3, after l2, 25d
+    User Onboarding Program  :l4, after l3, 30d
