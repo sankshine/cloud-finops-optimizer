@@ -41,7 +41,11 @@ Hardware Specifications:
     - Calico for network policy
 
 
-Node Type  Count  Avg CPU  Avg Memory  Avg Pods
-Master     X      42%      38%           XX
-Worker     X      28%      35%           XX
-GPU        X      18%      25%           XX
+## High Priority Candidates
+
+| VM Name | Environment | Current Spec | Utilization | Recommended Spec | Monthly Savings |
+|---------|------------|--------------|-------------|------------------|-----------------|
+| Master Node | Production | 8 vCPU, 32GB RAM | CPU: 42%<br>Memory: 38%<br>Pods: XX | 4 vCPU, 16GB RAM | $320 |
+| Worker Node | Production | 4 vCPU, 16GB RAM | CPU: 28%<br>Memory: 35%<br>Pods: XX | 2 vCPU, 8GB RAM | $160 |
+| GPU Node | Production | 8 vCPU, 32GB RAM, 1 GPU | CPU: 18%<br>Memory: 25%<br>Pods: XX | 4 vCPU, 16GB RAM, 1 GPU | $80 |
+
