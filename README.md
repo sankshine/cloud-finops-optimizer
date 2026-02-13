@@ -7,11 +7,11 @@ Enterprise data product Go-To-Market strategy across 5 enterprise datasets servi
 - **Cost Savings**: $2M annual compute cost reduction
 - **User Impact**: 1200+ enterprise users served
 - **Datasets**: 5 enterprise datasets created
-- **Infrastructure**: Migrated from VMware/OpenShift bare metal to GCP
+- **Infrastructure**: Migrated from VMware, OpenStack, OpenShift bare metal to GCP
 - **Efficiency**: 70% reduction in operational overhead
 
 ## 🏗️ Architecture Transformation
-- **From**: Fragmented VMware + OpenShift bare metal + Oracle/Hadoop
+- **From**: Fragmented VMware +Openstack + OpenShift bare metal + Hadoop
 - **To**: Unified GCP platform with BigQuery, GKE, and managed services
 
 ## 📈 Key Metrics
@@ -20,22 +20,4 @@ Enterprise data product Go-To-Market strategy across 5 enterprise datasets servi
 - Platform availability: 99.95% vs. 99.5%
 - User satisfaction: 4.5/5.0
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Python 3.8+
-- Terraform 1.0+
-- Google Cloud SDK
-- Kubernetes CLI tools
-
-### Quick Start
-```bash
-# Clone repository
-git clone https://github.com/your-org/finops-cloud-migration-gtm.git
-
-# Setup environment
-cd finops-cloud-migration-gtm
-pip install -r requirements.txt
-
-# Review documentation
-open docs/00-executive-summary.md
