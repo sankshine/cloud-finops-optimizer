@@ -13,8 +13,8 @@
 │  │                     Compute & Containers                            │   │
 │  │  ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐  │   │
 │  │  │Compute Engine    │  │GKE Autopilot     │  │Cloud Run        │  │   │
-│  │  │Right-sized VMs   │  │25 nodes avg      │  │Serverless       │  │   │
-│  │  │150 avg running   │  │Auto-scaling      │  │Pay-per-use      │  │   │
+│  │  │Right-sized VMs   │  │XX nodes avg      │  │Serverless       │  │   │
+│  │  │XXX avg running   │  │Auto-scaling      │  │Pay-per-use      │  │   │
 │  │  └──────────────────┘  └──────────────────┘  └──────────────────┘  │   │
 │  │  ┌─────────────────────────────────────────────────────────────┐  │   │
 │  │  │Preemptible VMs (Batch workloads, 70% cheaper)              │  │   │
@@ -57,7 +57,7 @@
 │  ┌─────────────────────────┐  ┌─────────────────────────┐                  │
 │  │   On-Prem Remaining     │  │         Users           │                  │
 │  │  ┌────────────────────┐ │  │  ┌────────────────────┐ │                  │
-│  │  │Tier 4 - 50 VMs    │ │  │  │1200+ Enterprise    │ │                  │
+│  │  │TierXXX     VMs    │ │  │  │1200+ Enterprise    │ │                  │
 │  │  │Legacy systems     │ │  │  │- SSO / IAP access  │ │                  │
 │  │  │Physical security  │ │  │  │- Self-service BI   │ │                  │
 │  │  └────────────────────┘ │  │  └────────────────────┘ │                  │
