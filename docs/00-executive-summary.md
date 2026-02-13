@@ -13,9 +13,6 @@
  
 ### Financial Benefits
 - **Direct Cost Savings** ~ $2M annually
-- **3-Year TCO Reduction**: $6.2M
-- **ROI**: 448% in first year
-- **Payback Period**: 4 months
  
 ### Operational Benefits
 - **Automation**: 80% reduction in manual processes
